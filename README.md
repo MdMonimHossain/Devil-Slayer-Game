@@ -7,7 +7,7 @@ Devil Slayer, games's main protagonist, has 4 moves. He can jump, use sword, sho
 <br>
 At the end he has to face the main boss which he has to defeat using his attacking moves.
 
-### IDE used: Microsoft Visual Studio 2010
+### IDE: Microsoft Visual Studio 2010
 ### Programming Language: C/C++
 ### Libraries:
 - iGraphics.h
@@ -17,7 +17,7 @@ At the end he has to face the main boss which he has to defeat using his attacki
 
 <a href="https://drive.google.com/file/d/1ABJ_EpwT8DrJrzIlUetpS2w4erTh7Yl5/view?usp=sharing">Download Link (zip)</a>
 
-### ScreenShots:
+### Screenshots:
 ![screenshot1](https://drive.google.com/uc?export=view&id=1yhVZKINjG-NvRGR-bXvzWqSSqMISg8DQ)
 ![screenshot2](https://drive.google.com/uc?export=view&id=1uh64YkPa2uJ6embWIV82en0Eq67daEqA)
 ![screenshot3](https://drive.google.com/uc?export=view&id=1AHnLxs_FSwzqHir1L_64YyDy7YR_VU3k)
