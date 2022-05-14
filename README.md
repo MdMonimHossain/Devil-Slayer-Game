@@ -1,4 +1,4 @@
-# iGraphics-Project-DevilSlayer
+# DevilSlayer-Game-iGraphics
 
 ## 'Devil Slayer: The Justice Resurrection' is a small game developed using OpenGL based iGraphics Library in C++
 
