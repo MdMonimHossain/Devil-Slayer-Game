@@ -14,4 +14,4 @@ At the end he has to face the main boss which he has to defeat using his attacki
 <a href="https://drive.google.com/file/d/1ABJ_EpwT8DrJrzIlUetpS2w4erTh7Yl5/view?usp=sharing">Download Link (zip)</a>
 
 ### ScreenShots:
-![screenshot1](https://drive.google.com/uc?export=view&id=1cqd8Qpuxw3Yyd3c8ahVgrtsHdXk3xBeb)
+![screenshot1](https://drive.google.com/file/d/1yhVZKINjG-NvRGR-bXvzWqSSqMISg8DQ/view?usp=sharing)
