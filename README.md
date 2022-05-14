@@ -9,7 +9,11 @@ At the end he has to face the main boss which he has to defeat using his attacki
 
 ### IDE used: Microsoft Visual Studio 2010
 ### Programming Language: C/C++
-### Libraries: i) iGraphics.h ii) glaux.h iii) glut.h iv) stb_image.h
+### Libraries:
+- iGraphics.h
+- glaux.h
+- glut.h
+- stb_image.h
 
 <a href="https://drive.google.com/file/d/1ABJ_EpwT8DrJrzIlUetpS2w4erTh7Yl5/view?usp=sharing">Download Link (zip)</a>
 
