@@ -15,5 +15,6 @@ At the end he has to face the main boss which he has to defeat using his attacki
 
 ### ScreenShots:
 ![screenshot1](https://drive.google.com/uc?export=view&id=1yhVZKINjG-NvRGR-bXvzWqSSqMISg8DQ)
-![screenshot2](https://drive.google.com/uc?export=view&id=1yhVZKINjG-NvRGR-bXvzWqSSqMISg8DQ)
-![screenshot3](https://drive.google.com/uc?export=view&id=1yhVZKINjG-NvRGR-bXvzWqSSqMISg8DQ)
+![screenshot2](https://drive.google.com/uc?export=view&id=1uh64YkPa2uJ6embWIV82en0Eq67daEqA)
+![screenshot3](https://drive.google.com/uc?export=view&id=1AHnLxs_FSwzqHir1L_64YyDy7YR_VU3k)
+![screenshot4](https://drive.google.com/uc?export=view&id=1LDfnT7_ycr5pQ7zh_DP4uWzdyWqjZVMT)
