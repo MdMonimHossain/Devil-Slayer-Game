@@ -4,6 +4,7 @@
 
 ### Gameplay:
 Devil Slayer, games's main protagonist, has 4 moves. He can jump, use sword, shoot fireballs, jump and shoot fireballs. He has to tackle 4 different types of enemies and obstacles by these moves.
+<br>
 At the end he has to face the main boss which he has to defeat using his attacking moves.
 
 ### Requerements:
@@ -15,4 +16,4 @@ ii) glaux.h
 iii) glut.h
 iv) stb_image.h
 
-<a href="https://drive.google.com/file/d/1ABJ_EpwT8DrJrzIlUetpS2w4erTh7Yl5/view?usp=sharing">Download Link</a>
+<a href="https://drive.google.com/file/d/1ABJ_EpwT8DrJrzIlUetpS2w4erTh7Yl5/view?usp=sharing">Download Link (zip)</a>
