@@ -1,6 +1,6 @@
 # iGraphics-Project-DevilSlayer
 
-## 'Devil Slayer: The Justice Resurrection' is a small game developed using OpenGL based iGraphics Library in C++.
+## 'Devil Slayer: The Justice Resurrection' is a small game developed using OpenGL based iGraphics Library in C++
 
 ### Gameplay:
 Devil Slayer, games's main protagonist, has 4 moves. He can jump, use sword, shoot fireballs, jump and shoot fireballs. He has to tackle 4 different types of enemies and obstacles by these moves.
